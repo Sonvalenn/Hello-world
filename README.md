@@ -1,26 +1,34 @@
-🌟 Bienvenido a mi perfil 🌟
-¡Hola! Soy Valentín, un apasionado por la programación y la tecnología en constante aprendizaje. 🚀
+# 🌟 Bienvenido a mi perfil 🌟  
 
-ℹ️ Sobre mí
-🎓 Estudiante de Programación en la Universidad Tecnológica Nacional (UTN)
-🌍 Apasionado por la innovación y las soluciones creativas
-📚 Siempre en busca de nuevos conocimientos y retos
-🎂 19 años | 🇦🇷 Argentina
-📩 Contacto: sonvalen@outlook.es
-💻 Tecnologías y herramientas
-Lenguajes:
+¡Hola! Soy **Valentín**, un apasionado por la programación y la tecnología en constante aprendizaje. 🚀  
 
-HTML, CSS, C++
-Frameworks:
+## ℹ️ Sobre mí  
+- 🎓 Estudiante de **Programación** en la **Universidad Tecnológica Nacional (UTN)**  
+- 🌍 Apasionado por la innovación y las soluciones creativas  
+- 📚 Siempre en busca de nuevos conocimientos y retos  
+- 🎂 19 años | 🇦🇷 Argentina  
+- 📩 **Contacto**: [sonvalenn@outlook.com](mailto:sonvalenn@outlook.com)  
 
-Node.js
-Bases de datos:
+## 💻 Tecnologías y herramientas  
 
-MySQL
-Herramientas:
+**Lenguajes:**  
+- HTML  
+- CSS  
+- C++  
 
-Git, VS Code, Discord
-🚀 Proyectos destacados
-Chancha
-Consultorio
-Gracias por visitar mi perfil. ¡Nos vemos en el código! 👨‍💻
+**Frameworks:**  
+- Node.js  
+
+**Bases de datos:**  
+- MySQL  
+
+**Herramientas:**  
+- Git  
+- VS Code  
+- Discord  
+
+## 🚀 Proyectos destacados  
+- **Chancha**  
+- **Consultorio**  
+
+Gracias por visitar mi perfil. ¡Nos vemos en el código! 👨‍💻  
