@@ -31,4 +31,7 @@
 - **Chancha**  
 - **Consultorio**  
 
-Gracias por visitar mi perfil. ¡Nos vemos en el código! 👨‍💻  
+https://media.giphy.com/media/13HBDT4QSTpveU/giphy.gif?cid=790b76114m10n0tpks3w0nwordhk0d982pdhpsbbqo07vvgx&ep=v1_gifs_search&rid=giphy.gif&ct=g
+
+Gracias por visitar mi perfil. ¡Nos vemos en el código! 
+
