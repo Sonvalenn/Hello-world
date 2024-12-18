@@ -29,9 +29,10 @@
 
 ## 🚀 Proyectos destacados  
 - **Chancha**  
-- **Consultorio**  
+- **Consultorio**
 
-https://media.giphy.com/media/13HBDT4QSTpveU/giphy.gif?cid=790b76114m10n0tpks3w0nwordhk0d982pdhpsbbqo07vvgx&ep=v1_gifs_search&rid=giphy.gif&ct=g
+ 
+![giphy](https://github.com/user-attachments/assets/b9532504-a1f3-4fe6-934e-bbf5ebe93ac4)
 
 Gracias por visitar mi perfil. ¡Nos vemos en el código! 
 
